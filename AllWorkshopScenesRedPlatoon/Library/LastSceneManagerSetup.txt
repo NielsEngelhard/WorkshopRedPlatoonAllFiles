@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Workshop3_depthmask/WorkshopScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

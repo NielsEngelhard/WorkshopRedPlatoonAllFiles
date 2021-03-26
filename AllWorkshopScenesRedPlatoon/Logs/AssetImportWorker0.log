@@ -1,0 +1,265 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18363.1440; Version 1909; 64bit' Language: 'nl' Physical Memory: 16329 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\game_minor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/game_minor/Workshop/AllWorkshops/AllWorkshopScenesRedPlatoon
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49790
+Successfully changed project path to: E:/game_minor/Workshop/AllWorkshops/AllWorkshopScenesRedPlatoon
+E:/game_minor/Workshop/AllWorkshops/AllWorkshopScenesRedPlatoon
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path E:/game_minor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/game_minor/Workshop/AllWorkshops/AllWorkshopScenesRedPlatoon/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'E:/game_minor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'E:/game_minor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/game_minor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/game_minor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000993 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000510 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.5 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 1.623300 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.370000 ms  DeleteObjects: 0.078800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653ce283d384579a24208b2e4d727c2a') in 0.070631 seconds
+  Import took 0.072368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(bab78cd824636b74fbecc754b4bc534c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(bab78cd824636b74fbecc754b4bc534c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af80bc94348ab3370436b6c5de85f2f4') in 0.005741 seconds
+  Import took 0.007282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.734012 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(96eb838d38b66e445b72ecd218091d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(96eb838d38b66e445b72ecd218091d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f36d2211b7c3c7cfeba39d03473cb4') in 0.006537 seconds
+  Import took 0.008415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(96eb838d38b66e445b72ecd218091d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(96eb838d38b66e445b72ecd218091d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f36d2211b7c3c7cfeba39d03473cb4') in 0.002328 seconds
+  Import took 0.004034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.240849 seconds.
+  path: Assets/Workshop1_Water
+  artifactKey: Guid(f5db58d0233d660478fd5f7d62a80df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop1_Water using Guid(f5db58d0233d660478fd5f7d62a80df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ecdc4b8e4faa1e0027ca19a18b68d69') in 0.006577 seconds
+  Import took 0.008380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.100325 seconds.
+  path: Assets/Workshop2_underwater
+  artifactKey: Guid(29ccc55162824ee46963065fbf4b88aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop2_underwater using Guid(29ccc55162824ee46963065fbf4b88aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a4b3a7d10eeca4d763fe5286e22537') in 0.007456 seconds
+  Import took 0.009247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000807 seconds.
+  path: Assets/Workshop2_underwater
+  artifactKey: Guid(29ccc55162824ee46963065fbf4b88aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop2_underwater using Guid(29ccc55162824ee46963065fbf4b88aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a4b3a7d10eeca4d763fe5286e22537') in 0.002342 seconds
+  Import took 0.004104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.606775 seconds.
+  path: Assets/Workshop3_depthmask
+  artifactKey: Guid(2b28f4672efe8274192637ba34bf240e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask using Guid(2b28f4672efe8274192637ba34bf240e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e16df6cad4b1a0958583efd9469ebb6') in 0.006783 seconds
+  Import took 0.008587 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1546.
+Total: 1.728100 ms (FindLiveObjects: 0.132300 ms CreateObjectMapping: 0.027000 ms MarkObjects: 1.443600 ms  DeleteObjects: 0.123900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.491061 seconds.
+  path: Assets/Workshop3_depthmask/ToBeDepthMask.prefab
+  artifactKey: Guid(2b32243a1fb9b5f4dbe1c5e39230de45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/ToBeDepthMask.prefab using Guid(2b32243a1fb9b5f4dbe1c5e39230de45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580c3061f71af3f886e32161419c59d0') in 0.419176 seconds
+  Import took 0.423402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Workshop3_depthmask/BoatWorkshop.prefab
+  artifactKey: Guid(c050f74d7721da64caad2056ada5cbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/BoatWorkshop.prefab using Guid(c050f74d7721da64caad2056ada5cbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac1e341e94f867abbf61cf97a681767') in 0.053971 seconds
+  Import took 0.058503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.072269 seconds.
+  path: Assets/Workshop3_depthmask/Scenes
+  artifactKey: Guid(45cc0e6e57c101742ad383c7db4a5495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Scenes using Guid(45cc0e6e57c101742ad383c7db4a5495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c3102f588cb9cc75eb29c56e170404') in 0.006340 seconds
+  Import took 0.008149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.828998 seconds.
+  path: Assets/Workshop3_depthmask/WorkshopScene.unity
+  artifactKey: Guid(645f97dcc7b84cd4d9883d5ec3afb753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/WorkshopScene.unity using Guid(645f97dcc7b84cd4d9883d5ec3afb753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d59f3b072a0efdd61c2f02d963f3e58') in 0.006783 seconds
+  Import took 0.008659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.904993 seconds.
+  path: Assets/Workshop3_depthmask/Answers
+  artifactKey: Guid(631bde07539ca55469032d2dc57fef98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Answers using Guid(631bde07539ca55469032d2dc57fef98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7707182060ba68cb881ea2ace2f7b0') in 0.006393 seconds
+  Import took 0.008299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040322 seconds.
+  path: Assets/Workshop3_depthmask/Answers/afterblender.fbx
+  artifactKey: Guid(a45ec07098fc8de4fa06a816bc1dffc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Answers/afterblender.fbx using Guid(a45ec07098fc8de4fa06a816bc1dffc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f6533367cb0211375855f0ee2a3296') in 0.485083 seconds
+  Import took 0.487824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Workshop3_depthmask/Answers/BoatToBlender.prefab
+  artifactKey: Guid(5887faccf1d570f4eb50c3495871d84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Answers/BoatToBlender.prefab using Guid(5887faccf1d570f4eb50c3495871d84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3355977f8b8c0e8d1449811f068c98d') in 0.042644 seconds
+  Import took 0.047018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Workshop3_depthmask/Answers/AnswerMaterial.mat
+  artifactKey: Guid(28ab7f85d0dfacf44aa47620f7951389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Answers/AnswerMaterial.mat using Guid(28ab7f85d0dfacf44aa47620f7951389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27c24e2efdf4462e21e3c6393135046') in 0.014706 seconds
+  Import took 0.016778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Workshop3_depthmask/Answers/BoatAnswer.fbx
+  artifactKey: Guid(2d7fd37d378a20e41b53ecdbe242a579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Answers/BoatAnswer.fbx using Guid(2d7fd37d378a20e41b53ecdbe242a579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde8e82262b252c6450ed24e9af81c53') in 0.032542 seconds
+  Import took 0.035244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Workshop3_depthmask/Answers/AnswerMaterial.mat
+  artifactKey: Guid(28ab7f85d0dfacf44aa47620f7951389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop3_depthmask/Answers/AnswerMaterial.mat using Guid(28ab7f85d0dfacf44aa47620f7951389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27c24e2efdf4462e21e3c6393135046') in 0.008210 seconds
+  Import took 0.009957 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 1.549100 ms (FindLiveObjects: 0.134900 ms CreateObjectMapping: 0.026100 ms MarkObjects: 1.284400 ms  DeleteObjects: 0.102900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
